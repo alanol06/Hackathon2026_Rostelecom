@@ -1,0 +1,9 @@
+{
+    "admin": {
+        "hash": "$2y$12$jV9YMMTMeZdZMuw81jpzDulvn\/Y1IvmepPNkyVYTBV3g20RvI\/axW",
+        "totp_secret": "5TWAURQF34O6J4FC",
+        "last_step": 59762539,
+        "fails": 0,
+        "locked_until": 0
+    }
+}

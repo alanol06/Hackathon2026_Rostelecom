@@ -1,0 +1,8 @@
+services:
+  app:
+    build: .
+    ports:
+      - "80:80"                          # сайт: http://IP_СЕРВЕРА
+    volumes:
+      - ./data:/var/www/html/data        # база и CSV живут на диске сервера
+    restart: unless-stopped
