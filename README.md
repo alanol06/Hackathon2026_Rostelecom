@@ -1,7 +1,7 @@
 # 🧭 Компас — Экосистема коммерческого блока
 
 **Аналитическая веб-система для опережения рынка на основе открытых данных.**  
-*Кейс ПАО «Ростелеком» | Хакатон ДГТУ-26 | Команда PKS-21*
+*Кейс ПАО «Ростелеком» | Хакатон ДГТУ-26 | Команда PCS-21*
 
 ![PHP](https://img.shields.io/badge/PHP-8.3-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
